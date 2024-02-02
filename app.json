@@ -1,0 +1,31 @@
+{
+  "id": "51189FF8-ED03-4720-B7B8-60C9F662CAAD",
+  "name": "Thomas erste Schritte",
+  "publisher": "IMPRIVO GmbH",
+  "version": "1.0.0.0",
+  "brief": "Mal sehen, ob es klappt",
+  "description": "Erste Schritte am 1.+2.2.24.",
+  "privacyStatement": "https://imprivo-group.de/home/datenschutz/",
+  "EULA": "http://imprivo.de",
+  "help": "",
+  "url": "http://imprivo.de",
+  "logo": "",
+  "screenshots": [],
+  "platform": "23.0.0.0",
+  "application": "23.0.0.0",
+  "resourceExposurePolicy":
+  {"allowDebugging": true,
+   "allowDownloadingSource": true,
+   "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "target" : "OnPrem",
+  "features": ["TranslationFile"],
+   "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+   ],
+   "dependencies": [ ]
+}
